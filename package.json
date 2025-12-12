@@ -1,0 +1,34 @@
+{
+  "name": "mtt-sql-plugin",
+  "version": "1.0.0",
+  "description": "Multi-tenant SQL SDK for Node.js (TypeORM-based)",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "keywords": [
+    "multi-tenant",
+    "postgres",
+    "sdk",
+    "typeorm"
+  ],
+  "author": "Expertflow",
+  "license": "MIT",
+  "homepage": "https://github.com/expertflow/mtt-sql-plugin#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/expertflow/mtt-sql-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/expertflow/mtt-sql-plugin/issues"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "files": [
+    "src",
+    "README.md"
+  ],
+  "dependencies": {
+    "typeorm": "^0.3.20",
+    "pg": "^8.13.0"
+  }
+}
