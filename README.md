@@ -274,9 +274,3 @@ Report issues on GitHub:
 
 Example 
 https://github.com/expertflow/SampleMttSqlAppNode
-
-✅ API Reference Table
-✅ Architecture Diagram (ASCII or image)
-✅ Postman Collection
-✅ Tutorial video script
-Just tell me!
